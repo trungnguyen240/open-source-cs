@@ -54,6 +54,13 @@ Courses | School | Duration | Effort | Frequency | Prerequisites
 [Algorithms, Part II](https://click.linksynergy.com/deeplink?id=PtFMiHYfEVk&mid=40328&murl=https%3A%2F%2Fwww.coursera.org%2Flearn%2Falgorithms-part2) | Princeton | 6 weeks | 6-12 hours/week | once a month | Algorithms, Part I
 
 
+## Web Development
+
+Course | School | Duration | Effort | Frequency | Prerequisites
+:-- | :--: | :--: | :--: | :--: | :--:
+[Full Stack Javascript](https://www.theodinproject.com/tracks/full-stack-javascript) | The Odin Project | 6 weeks | 8-10 hours/week | self-paced | Intro to Computer Science
+
+
 ## Applications
 
 Courses | School | Duration | Effort | Frequency | Prerequisites
